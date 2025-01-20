@@ -46,6 +46,6 @@ Se planea incluir:
 
 ---
 
-**Autor**: José Luis Fernández Almendral  
+**Autor**: José Luis Fernández Almendral
 
 ¡Gracias por tu interés en este proyecto!
