@@ -1,0 +1,36 @@
+{
+    "exp_min": "4 años",
+    "tipo_contrato": "indefinido",
+    "estudios_min": [
+      "master",
+      "grado",
+      "phd",
+      "estadistica",
+      "matematicas",
+      "fisica",
+      "informatica",
+      "ingenieria",
+      "telecomunicaciones"
+    ],
+    "skills": [
+      "sql",
+      "python",
+      "spark",
+      "pyspark",
+      "machine learning",
+      "estadistica descriptiva",
+      "neural networks",
+      "ia generativa",
+      "ci/cd",
+      "mlops",
+      "data modeling",
+      "programacion",
+      "retail"
+    ]
+  }
+  
+
+
+
+
+  

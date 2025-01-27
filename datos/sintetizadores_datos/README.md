@@ -1,6 +1,8 @@
 # GPTs Sintetizadores de Ofertas Laborales del Mundo Data
 
-Este directorio contiene un Jupyter Notebook con una colección de modelos GPT entrenados con ofertas laborales referidas a roles del mundo **data** (Data Scientist, Data Engineer, Analista de Datos, etc.). 
+Este directorio contiene un Jupyter Notebook con una colección de modelos GPT entrenados con ofertas laborales referidas a roles del mundo **data** (Data Scientist, Data Engineer, Analista de Datos, etc.).
+
+Después contiene el directorio de 'datos_generados' el cual cuenta con los .csv de ofertas generadas por los gpts.
 
 Los datos utilizados en este proyecto se han generado a partir de descripciones de ofertas laborales obtenidas de plataformas públicas como **LinkedIn** e **InfoJobs**. Este proyecto tiene fines educativos y de demostración, con miras a evolucionar para manejar datos reales en un entorno controlado y legalmente respaldado.
 
