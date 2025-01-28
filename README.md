@@ -1,5 +1,7 @@
 # Proyecto Final de Máster: Análisis del Mercado Laboral en el Mundo del Data
 
+<img src="recursos/img_emplea_data.png" width="100%">
+
 ## Descripción del Proyecto
 
 Este proyecto busca resolver uno de los principales retos a los que se enfrentan los profesionales en el ámbito de los datos: entender el mercado laboral y las demandas actuales de manera clara, rápida y efectiva. La plataforma que se está desarrollando permitirá a los usuarios identificar los puestos más demandados, las habilidades necesarias para cada rol, y las ofertas laborales que mejor se ajusten a su perfil.
